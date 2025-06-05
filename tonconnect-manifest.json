@@ -1,7 +1,12 @@
 {
-  "url": "https://quick-unique.github.io",
+  "manifest_version": "2",
   "name": "Quick Unique",
-  "iconUrl": "https://quick-unique.github.io/icon.png",
-  "termsOfUseUrl": "https://quick-unique.github.io/terms",
-  "privacyPolicyUrl": "https://quick-unique.github.io/privacy"
+  "description": "Official Quick Unique TG Bot",
+  "url": "https://Quick-Unique.github.io",
+  "icons": [
+    "https://Quick-Unique.github.io/icon.png"
+  ],
+  "bridge_url": "https://bridge.tonapi.io/bridge",
+  "terms_of_use_url": "https://Quick-Unique.github.io/terms",
+  "privacy_policy_url": "https://Quick-Unique.github.io/privacy"
 }
