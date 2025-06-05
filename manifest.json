@@ -1,5 +1,8 @@
 {
-  "url": "https://github.com/quick-unique",
+  "url": "https://quick-unique.github.io",
   "name": "Quick Unique",
-  "iconUrl": "https://quick-unique.github.io/icon.png"
+  "iconUrl": "https://quick-unique.github.io/icon.png",
+  "termsOfUseUrl": "https://quick-unique.github.io/terms.html",
+  "privacyPolicyUrl": "https://quick-unique.github.io/privacy.html",
+  "tonconnectVersion": "2.0"
 }
