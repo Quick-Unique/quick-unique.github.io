@@ -6,7 +6,5 @@
   "icons": [
     "https://Quick-Unique.github.io/icon.png"
   ],
-  "bridge_url": "https://bridge.tonapi.io/bridge",
-  "terms_of_use_url": "https://Quick-Unique.github.io/terms",
-  "privacy_policy_url": "https://Quick-Unique.github.io/privacy"
+  "bridge_url": "https://bridge.tonapi.io/bridge"
 }
