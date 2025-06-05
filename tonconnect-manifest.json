@@ -2,9 +2,9 @@
   "manifest_version": "2",
   "name": "Quick Unique",
   "description": "Official Quick Unique TG Bot",
-  "url": "https://Quick-Unique.github.io",
+  "url": "https://quick-unique.github.io",
   "icons": [
-    "https://Quick-Unique.github.io/icon.png"
+    "https://quick-unique.github.io/icon.png"
   ],
   "bridge_url": "https://bridge.tonapi.io/bridge"
 }
